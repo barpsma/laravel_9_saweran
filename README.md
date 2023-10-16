@@ -16,6 +16,9 @@ Simple project implementing MidTrans payment gateway in Laravel 9
 ## Demo
 
 ![1](https://github.com/barpsma/laravel_9_saweran/blob/main/ss/1.PNG?raw=true)
+![2](https://github.com/barpsma/laravel_9_saweran/blob/main/ss/2.PNG?raw=true)
+![3](https://github.com/barpsma/laravel_9_saweran/blob/main/ss/3.PNG?raw=true)
+![4](https://github.com/barpsma/laravel_9_saweran/blob/main/ss/4.PNG?raw=true)
 
 ## Installation
 
